@@ -1,0 +1,3 @@
+list=["this is my list]
+
+print(list)
