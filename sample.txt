@@ -1,5 +1,2 @@
 list=["this is my list"]
 
-print(type(list))
-print(len(list))
-
