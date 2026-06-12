@@ -30,3 +30,10 @@ print(set([x for x in lst if lst.count(x) > 1]))
 # print(dupilicate_values)
 
 
+
+list=["this is my list"]
+
+print(type(list))
+print(len(list))
+
+
