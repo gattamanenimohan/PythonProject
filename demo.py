@@ -27,14 +27,11 @@ print(set([x for x in lst if lst.count(x) > 1]))
 
 list=["this is my list"]
 
-<<<<<<< HEAD
 
-print(type(list))
 
-=======
 print(type(list))
 print(len(list))
 print("my name is mohan")
->>>>>>> e7632db428983bf432b9596c5705815f1fe9b9d6
+
 
 
