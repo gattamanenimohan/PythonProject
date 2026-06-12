@@ -35,5 +35,6 @@ list=["this is my list"]
 
 print(type(list))
 print(len(list))
+print("my name is mohan")
 
 
