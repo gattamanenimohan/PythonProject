@@ -1,5 +1,5 @@
-list=["this is my list]
+list=["this is my list"]
 
-print(type.list)
-print(len.list)
+print(type(list))
+print(len(list))
 
